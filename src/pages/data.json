@@ -1,0 +1,36 @@
+{
+  "blockData": [
+    {
+      "name": "test",
+      "age": 25
+    },
+    {
+      "name": "test",
+      "age": 2123
+    }
+  ],
+  "tableConfig": [
+    {
+      "label": "姓名",
+      "name": "name",
+      "align": "left"
+    },
+    {
+      "label": "年齡",
+      "name": "age",
+      "align": "left"
+    }
+  ],
+  "tableButtons": [
+    {
+      "label": "編輯",
+      "icon": "edit",
+      "status": "edit"
+    },
+    {
+      "label": "刪除",
+      "icon": "delete",
+      "status": "delete"
+    }
+  ]
+}
